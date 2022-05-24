@@ -1,0 +1,17 @@
+查看状态
+git status 
+
+添加所有文件
+git add .
+
+创建分支（分支名字）
+git branch (branchname)
+
+切换分支
+git checkout (branchname)
+
+查看有哪些分支
+git branch
+
+上传至某分支
+git push origin fenzhi1
